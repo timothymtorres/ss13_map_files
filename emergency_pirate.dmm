@@ -1,0 +1,135 @@
+"aa" = (/turf/template_noop,/area/template_noop)
+"ab" = (/obj/item/stack/sheet/mineral/wood{anchored = 1; pixel_x = -9; pixel_y = -8},/obj/item/stack/sheet/mineral/wood{anchored = 1; pixel_x = 9; pixel_y = 8},/obj/item/stack/sheet/mineral/wood{anchored = 1},/turf/open/floor/holofloor/space,/area/shuttle/escape)
+"ac" = (/obj/structure/table/wood,/obj/item/storage/firstaid/regular{pixel_x = 8; pixel_y = 4},/obj/item/storage/firstaid/o2,/turf/open/floor/wood,/area/shuttle/escape)
+"ad" = (/turf/closed/wall/mineral/wood,/area/shuttle/escape)
+"ae" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/table/wood,/obj/item/storage/firstaid/fire,/obj/item/storage/firstaid/toxin{pixel_x = 8; pixel_y = 4},/obj/item/storage/firstaid/fire,/turf/open/floor/wood,/area/shuttle/escape)
+"af" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/template_noop,/area/shuttle/escape)
+"ag" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/template_noop,/area/shuttle/escape)
+"ah" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/table/wood,/obj/item/storage/toolbox/mechanical,/obj/item/storage/toolbox/emergency{pixel_x = 8; pixel_y = 4},/obj/item/storage/toolbox/mechanical,/turf/open/floor/wood,/area/shuttle/escape)
+"ai" = (/obj/machinery/jukebox,/turf/open/floor/wood,/area/shuttle/escape)
+"aj" = (/obj/machinery/door/window/brigdoor{dir = 8; id = "Cannon 4"; name = "Cannon 4"; req_access_txt = "3"},/obj/docking_port/mobile/emergency{dwidth = 12; height = 11; name = "Pirate emergency shuttle"; width = 25},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"ak" = (/obj/machinery/light/small{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"al" = (/turf/open/floor/wood,/area/shuttle/escape)
+"am" = (/obj/structure/window/reinforced{dir = 1},/turf/open/floor/wood,/area/shuttle/escape)
+"an" = (/obj/machinery/door/window/brigdoor/northright,/turf/open/floor/wood,/area/shuttle/escape)
+"ao" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"ap" = (/obj/structure/chair/wood,/turf/open/floor/wood,/area/shuttle/escape)
+"aq" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"as" = (/obj/structure/table/wood/fancy/black,/obj/structure/window/reinforced,/obj/effect/spawner/lootdrop/gambling,/turf/open/floor/wood,/area/shuttle/escape)
+"at" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"av" = (/obj/machinery/computer/communications{dir = 2},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/open/floor/holofloor/carpet,/area/shuttle/escape)
+"aw" = (/obj/machinery/computer/emergency_shuttle,/obj/structure/window/reinforced{dir = 1},/turf/open/floor/holofloor/carpet,/area/shuttle/escape)
+"ax" = (/obj/machinery/computer/crew{dir = 2},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/open/floor/holofloor/carpet,/area/shuttle/escape)
+"ay" = (/mob/living/simple_animal/parrot,/turf/open/floor/wood,/area/shuttle/escape)
+"az" = (/obj/machinery/light/small{dir = 8},/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"aA" = (/obj/structure/table/wood/poker,/obj/item/toy/cards/deck,/obj/item/reagent_containers/food/drinks/flask{pixel_x = 9; pixel_y = 3},/turf/open/floor/wood,/area/shuttle/escape)
+"aB" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/drinks/flask{pixel_x = 10; pixel_y = -3},/obj/item/dice/d6,/obj/item/dice/d6{pixel_x = 3; pixel_y = 5},/turf/open/floor/wood,/area/shuttle/escape)
+"aC" = (/obj/item/toy/sword,/obj/structure/chair/wood/wings{dir = 1},/obj/machinery/door/window/brigdoor{dir = 2; name = "Cockpit"; req_access_txt = "19"},/turf/open/floor/mineral/gold,/area/shuttle/escape)
+"aD" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/snacks/butterbiscuit{pixel_x = -5; pixel_y = -7},/obj/item/reagent_containers/food/snacks/butterbiscuit,/obj/item/reagent_containers/food/snacks/butterbiscuit{pixel_x = 5; pixel_y = 7},/turf/open/floor/wood,/area/shuttle/escape)
+"aE" = (/obj/structure/table/wood/fancy/black,/obj/structure/window/reinforced,/obj/effect/spawner/lootdrop/minor/pirate_or_bandana,/obj/effect/spawner/lootdrop/minor/pirate_or_bandana,/turf/open/floor/wood,/area/shuttle/escape)
+"aF" = (/obj/machinery/light/small{dir = 4},/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"aG" = (/obj/machinery/button/door{desc = "A remote control switch for the cloning door."; id = "Cannon 4"; name = "Cannon 4"; normaldoorcontrol = 1; pixel_x = -23; pixel_y = 0},/turf/open/floor/wood,/area/shuttle/escape)
+"aH" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/snacks/soup/wish,/turf/open/floor/wood,/area/shuttle/escape)
+"aI" = (/obj/machinery/button/door{id = "Cannon 8"; name = "Cannon 8"; normaldoorcontrol = 1; pixel_x = 25; specialfunctions = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"aK" = (/obj/machinery/mass_driver{dir = 8; id = "Cannon 4"; name = "Cannon 4"},/obj/item/twohanded/required/gibtonite,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aL" = (/obj/machinery/mass_driver{dir = 4; id = "Cannon 8"; name = "Cannon 8"},/obj/item/twohanded/required/gibtonite,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aM" = (/obj/machinery/door/window/brigdoor{dir = 4; id = "Cannon 8"; name = "Cannon 8"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aN" = (/obj/structure/closet/emcloset,/turf/open/floor/wood,/area/shuttle/escape)
+"aO" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/chair/wood,/turf/open/floor/wood,/area/shuttle/escape)
+"aP" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/chair/wood,/turf/open/floor/wood,/area/shuttle/escape)
+"aQ" = (/obj/structure/window/reinforced{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"aR" = (/obj/machinery/door/window/brigdoor{dir = 8; id = "Cannon 3"; name = "Cannon 3"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aS" = (/obj/machinery/mass_driver{dir = 8; id = "Cannon 3"; name = "Cannon 3"},/obj/effect/immovablerod{dir = 4},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aT" = (/obj/structure/window/reinforced{dir = 1; layer = 2.9},/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"aU" = (/obj/structure/table/wood/bar{boot_dir = 8},/obj/item/reagent_containers/food/drinks/drinkingglass,/obj/item/reagent_containers/food/drinks/drinkingglass{pixel_x = 3; pixel_y = 3},/obj/item/reagent_containers/food/drinks/drinkingglass{pixel_x = -3; pixel_y = -2},/turf/open/floor/plasteel/bar,/area/shuttle/escape)
+"aV" = (/obj/structure/table/wood/bar{boot_dir = 8},/obj/item/reagent_containers/food/drinks/drinkingglass,/obj/item/reagent_containers/food/drinks/drinkingglass{pixel_x = -3; pixel_y = -2},/turf/open/floor/plasteel/bar,/area/shuttle/escape)
+"aW" = (/obj/structure/window/reinforced{dir = 1; layer = 2.9},/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"aX" = (/obj/machinery/mass_driver{dir = 4; id = "Cannon 7"; name = "Cannon 7"},/obj/effect/meteor/meaty,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aY" = (/obj/machinery/door/window/brigdoor{dir = 4; id = "Cannon 7"; name = "Cannon 7"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"aZ" = (/obj/structure/window/reinforced{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"ba" = (/obj/structure/table/wood/bar{boot_dir = 8},/obj/item/reagent_containers/food/drinks/drinkingglass,/obj/item/reagent_containers/food/drinks/drinkingglass{pixel_x = 3; pixel_y = 3},/turf/open/floor/plasteel/bar,/area/shuttle/escape)
+"bb" = (/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = 17},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = 17; pixel_y = 16},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_y = 17},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = -16},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = -16; pixel_y = 18},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = -16; pixel_y = -18},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_y = -17},/obj/item/reagent_containers/food/drinks/bottle/rum{pixel_x = 17; pixel_y = -17},/mob/living/simple_animal/hostile/alien/maid/barmaid,/turf/open/floor/plasteel/bar,/area/shuttle/escape)
+"bc" = (/obj/structure/chair/wood/wings{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/window/brigdoor{dir = 2; name = "Cockpit"; req_access_txt = "19"},/turf/open/floor/mineral/silver,/area/shuttle/escape)
+"bd" = (/obj/machinery/door/window/brigdoor{dir = 8; id = "Cannon 2"; name = "Cannon 2"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"be" = (/obj/machinery/mass_driver{dir = 8; id = "Cannon 2"; name = "Cannon 2"},/obj/effect/meteor/flaming,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bf" = (/obj/structure/window/reinforced,/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"bg" = (/obj/structure/window/reinforced,/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/shuttle/escape)
+"bh" = (/obj/machinery/mass_driver{dir = 4; id = "Cannon 6"; name = "Cannon 6"},/obj/effect/meteor/irradiated,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bi" = (/obj/machinery/door/window/brigdoor{dir = 4; id = "Cannon 6"; name = "Cannon 6"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bj" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/chair/wood/wings{dir = 1},/obj/machinery/door/window/brigdoor{dir = 2; name = "Cockpit"; req_access_txt = "19"},/turf/open/floor/mineral/silver,/area/shuttle/escape)
+"bk" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/chair/wood{dir = 1},/turf/open/floor/wood,/area/shuttle/escape)
+"bl" = (/obj/structure/chair/wood{dir = 1},/turf/open/floor/wood,/area/shuttle/escape)
+"bm" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/chair/wood{dir = 1},/turf/open/floor/wood,/area/shuttle/escape)
+"bn" = (/obj/machinery/button/door{desc = "A remote control switch for the cloning door."; id = "Cannon 3"; name = "Cannon 3"; normaldoorcontrol = 1; pixel_x = -23; pixel_y = 0},/obj/machinery/light/small{brightness = 3; dir = 8},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"bo" = (/obj/machinery/door/window/brigdoor{dir = 8; id = "Cannon 1"; name = "Cannon 1"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bp" = (/obj/machinery/mass_driver{dir = 8; id = "Cannon 1"; name = "Cannon 1"},/obj/item/twohanded/required/gibtonite,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bq" = (/obj/machinery/light/small,/turf/open/floor/wood,/area/shuttle/escape)
+"br" = (/obj/machinery/mass_driver{dir = 4; id = "Cannon 5"; name = "Cannon 5"},/obj/item/twohanded/required/gibtonite,/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bs" = (/obj/machinery/door/window/brigdoor{dir = 4; id = "Cannon 5"; name = "Cannon 5"; req_access_txt = "3"},/turf/open/floor/mineral/plastitanium,/area/shuttle/escape)
+"bt" = (/obj/machinery/door/airlock/wood/glass,/turf/open/floor/wood,/area/shuttle/escape)
+"bu" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/wood,/area/shuttle/escape)
+"bv" = (/obj/machinery/door/airlock/wood/glass{name = "Brig"; req_one_access_txt = "1;2;3;4"},/turf/open/floor/wood,/area/shuttle/escape)
+"bw" = (/obj/machinery/door/airlock/wood/glass,/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"bx" = (/obj/item/shovel{pixel_x = 10; pixel_y = -7},/obj/item/shovel{pixel_x = 3; pixel_y = 7},/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"by" = (/obj/structure/signpost/salvation,/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"bz" = (/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"bA" = (/obj/structure/extinguisher_cabinet{pixel_x = 27},/obj/effect/spawner/bundle/costume/pirate,/obj/structure/table/wood,/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"bB" = (/obj/structure/chair/wood{dir = 4},/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bC" = (/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bD" = (/obj/structure/chair/wood,/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bE" = (/obj/machinery/light/small{brightness = 3; dir = 8},/turf/open/floor/plating/beach/coastline_t/sandwater_inner,/area/shuttle/escape)
+"bF" = (/turf/open/floor/plating/beach/coastline_t,/area/shuttle/escape)
+"bG" = (/turf/open/floor/plating/beach/coastline_t/sandwater_inner{dir = 8},/area/shuttle/escape)
+"bH" = (/obj/effect/spawner/bundle/costume/pirate,/obj/structure/table/wood,/obj/machinery/light/small{dir = 4},/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+"bI" = (/obj/structure/chair/wood{dir = 4},/obj/machinery/light/small{dir = 8},/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bJ" = (/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bK" = (/obj/structure/extinguisher_cabinet{pixel_x = 27},/obj/machinery/light/small{dir = 4},/turf/open/floor/plating/dirt/dark,/area/shuttle/escape)
+"bL" = (/obj/structure/flora/rock/jungle,/turf/open/floor/plating/beach/coastline_t{dir = 4},/area/shuttle/escape)
+"bM" = (/obj/item/ship_in_a_bottle,/obj/structure/flora/tree/palm{density = 0},/turf/open/floor/plating/beach/coastline_b,/area/shuttle/escape)
+"bN" = (/obj/structure/flora/tree/palm{density = 0},/turf/open/floor/plating/beach/coastline_t{dir = 8},/area/shuttle/escape)
+"bO" = (/obj/machinery/button/door{id = "Cannon 7"; name = "Cannon 7"; normaldoorcontrol = 1; pixel_x = 25; specialfunctions = 4},/obj/machinery/light/small{dir = 4},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"bP" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bQ" = (/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bR" = (/obj/structure/guillotine,/turf/open/floor/plating/asteroid/basalt,/area/shuttle/escape)
+"bS" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/toilet,/obj/machinery/light/small{brightness = 3; dir = 8},/obj/item/reagent_containers/glass/bucket{pixel_x = 16},/turf/open/floor/wood,/area/shuttle/escape)
+"bT" = (/obj/structure/toilet,/obj/machinery/door/window/brigdoor/northright{dir = 1; name = "Poopdeck"},/obj/item/reagent_containers/glass/bucket{pixel_x = 16},/turf/open/floor/wood,/area/shuttle/escape)
+"bU" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/toilet,/obj/item/reagent_containers/glass/bucket{pixel_x = 16},/turf/open/floor/wood,/area/shuttle/escape)
+"bV" = (/obj/structure/sink{pixel_y = 16},/obj/structure/mopbucket,/turf/open/floor/wood,/area/shuttle/escape)
+"bW" = (/obj/structure/window/reinforced{dir = 1},/obj/machinery/washing_machine,/turf/open/floor/wood,/area/shuttle/escape)
+"bX" = (/obj/structure/window/reinforced{dir = 1},/obj/machinery/washing_machine,/obj/machinery/light/small{dir = 4},/turf/open/floor/wood,/area/shuttle/escape)
+"bY" = (/obj/item/oar{pixel_x = 0; pixel_y = -10},/obj/item/oar{pixel_x = 16; pixel_y = -10},/obj/structure/window/reinforced,/turf/open/floor/wood,/area/shuttle/escape)
+"bZ" = (/obj/item/oar{pixel_x = 0; pixel_y = -10},/obj/item/oar{pixel_x = 16; pixel_y = -10},/obj/machinery/door/window/brigdoor/northright{dir = 6; name = "Poopdeck"},/turf/open/floor/wood,/area/shuttle/escape)
+"ca" = (/obj/item/oar{pixel_x = 0; pixel_y = -10},/obj/item/oar{pixel_x = 16; pixel_y = -10},/obj/structure/window/reinforced,/obj/structure/mirror{pixel_w = 22},/turf/open/floor/wood,/area/shuttle/escape)
+"cb" = (/obj/machinery/button/door{desc = "A remote control switch for the cloning door."; id = "Cannon 2"; name = "Cannon 2"; normaldoorcontrol = 1; pixel_x = -23; pixel_y = 0},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"cc" = (/obj/machinery/button/door{id = "Cannon 6"; name = "Cannon 6"; normaldoorcontrol = 1; pixel_x = 25; specialfunctions = 4},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"cd" = (/obj/machinery/button/door{desc = "A remote control switch for the cloning door."; id = "Cannon 1"; name = "Cannon 1"; normaldoorcontrol = 1; pixel_x = -23; pixel_y = 0},/obj/machinery/light/small{brightness = 3; dir = 8},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"ce" = (/obj/machinery/button/door{id = "Cannon 5"; name = "Cannon 5"; normaldoorcontrol = 1; pixel_x = 25; specialfunctions = 4},/obj/machinery/light/small{dir = 4},/obj/structure/bed,/turf/open/floor/wood,/area/shuttle/escape)
+"cf" = (/obj/structure/fluff,/obj/item/coin/gold,/obj/item/coin/gold,/obj/item/coin/gold,/obj/item/coin/gold,/obj/item/coin/gold,/obj/item/coin/silver,/obj/item/coin/silver,/obj/item/coin/silver,/obj/item/storage/bag/money,/obj/item/gun/magic/hook,/turf/open/floor/holofloor/beach,/area/shuttle/escape)
+
+(1,1,1) = {"
+aaaaaaaaaaabaaaaaaaaaa
+aaadadadaaabaaadadadaa
+aaadacaeafabagahaiadaa
+aaadakalamanamalaoadaa
+adadalalalayalalaladad
+adaAalalapapapalalaBad
+adaDalalaEasaEalalaHad
+adaNalaQavawaxaZalaNad
+adaqalaQbcaCbjaZalatad
+adaqalalalalalalalatad
+adazalalalayalalalaFad
+adaGalalalalalalalaIad
+ajaKalalaOapaPalalaLaM
+adbnalaTaUaVaUaWalbOad
+aRaSalaqbabbaVatalaXaY
+adcbalbfaUaVaUbgalccad
+bdbealalbkblbmalalbhbi
+adcdalalalayalalalcead
+bobpalalalbqalalalbrbs
+adadadbtadadbubvbubuad
+bwbxbybzbAadbBbCbDbDad
+adbEbFbGbHadbIbCbJbKad
+adbLbMbNcfadbPbCbQbRad
+adadbSbTbUbVbWbWbXadad
+aaadbYbYbYbZbYbYcaadaa
+"}
